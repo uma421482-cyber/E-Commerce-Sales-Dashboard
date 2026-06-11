@@ -39,9 +39,9 @@ across sales, revenue, channel distribution, and product category trends.
 - Channel performance comparison
 - Product-level filter slicer
 
+- Dashboard Preview
+<img width="332" height="188" alt="image" src="https://github.com/user-attachments/assets/22d601ba-2929-4011-bef7-d11140ea6aa9" />
 
-
-## Screenshot
 
 
 
